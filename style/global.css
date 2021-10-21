@@ -1,0 +1,33 @@
+:root{
+    --gradient1:  hsl(13, 100%, 72%);
+    --gradient2:  hsl(353, 100%, 62%);
+    --textLight: hsl(0, 0%, 100%);
+    --textRed: hsl(356, 100%, 66%);
+    --CTAhover: hsl(355, 100%, 74%);
+    --blueText: hsl(208, 49%, 24%);
+    --grayishBlue: hsl(207, 13%, 34%);
+    --gradientblue1: hsl(237, 17%, 21%);
+    --gradientblue2:  hsl(237, 23%, 32%);
+    --footerbackground: hsl(240, 10%, 16%);
+    --footertext: hsl(240, 2%, 79%);
+    --menuSub: rgb(239,239,241);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Overpass', sans-serif;
+    /* font-family: 'Ubuntu', sans-serif; */
+}
+
+a{
+    text-decoration: none;
+}
