@@ -33,7 +33,7 @@ Front End Mentor é um site que disponibiliza desafios que tem como o objetivo a
 
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/RaquelPenteado/blogr)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
