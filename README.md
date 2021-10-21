@@ -63,8 +63,8 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RaquelPenteado)
-- Twitter - [@yourusername](https://www.twitter.com/raquelpenteado)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/RaquelPenteado](https://www.frontendmentor.io/profile/RaquelPenteado)
+- Twitter - [https://www.twitter.com/raquelpenteado](https://www.twitter.com/raquelpenteado)
 
 ## Acknowledgments
 
