@@ -59,7 +59,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [Example resource 2](https://pt.stackoverflow.com/questions/117634/mostrar-e-esconder-conteúdo-em-javascript-menu) - Também visitei um site que mostrava um jeito de abrir e fechar um menu com javascript, pois eu não estava conseguindo obter o resultado que queria.
+- [https://pt.stackoverflow.com/questions/117634/mostrar-e-esconder-conteúdo-em-javascript-menu](https://pt.stackoverflow.com/questions/117634/mostrar-e-esconder-conteúdo-em-javascript-menu) - Também visitei um site que mostrava um jeito de abrir e fechar um menu com javascript, pois eu não estava conseguindo obter o resultado que queria.
 
 ## Author
 
@@ -68,6 +68,6 @@ To see how you can add code snippets, see below:
 
 ## Acknowledgments
 
-[inspiração](https://www.youtube.com/watch?v=gUdf1xlH0VM&list=PLmm0EZfIjQSgTmKt79kIeKiLZmDGWWihl) - Para aprender a fazer este tipo de layout, encontrei um vídeo no youtube que me ajudou a desenvolver e entender de uma maneira diferente.
+[https://www.youtube.com/watch?v=gUdf1xlH0VM&list=PLmm0EZfIjQSgTmKt79kIeKiLZmDGWWihl](https://www.youtube.com/watch?v=gUdf1xlH0VM&list=PLmm0EZfIjQSgTmKt79kIeKiLZmDGWWihl) - Para aprender a fazer este tipo de layout, encontrei um vídeo no youtube que me ajudou a desenvolver e entender de uma maneira diferente.
 
-[inspiração](https://github.com/sergii-moroz/Blogr-landing-page) - E aqui está o repositório no github.
+[https://github.com/sergii-moroz/Blogr-landing-page](https://github.com/sergii-moroz/Blogr-landing-page) - E aqui está o repositório no github.
